@@ -1,0 +1,56 @@
+h3{
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    font-weight: bolder;
+    margin-bottom: 30px;
+}
+p{
+    line-height: 9px;
+    font-family: 'Khand', sans-serif;
+    font-size: 18px;
+}
+
+.logo {
+
+    width: 120px;
+}
+@media (max-width:750px)
+{
+    .logo{
+        width:80px;
+    }
+}
+.nav-itme{
+    font-family: 'Times New Roman', Times, serif;
+}
+.nav-img{
+    margin: 10px;
+    width: 20px;
+}
+@media(max-width:992px){
+
+    .nav-img{
+        align-items: center;
+    }
+}
+.our-product{
+    margin-top: 50px;
+}
+
+.our-wid{
+    padding-bottom: 35px;
+}
+
+.text-center{
+    font-family: 'Khand', sans-serif;
+    margin-top: 30px;
+}
+
+.knowMore{
+    padding-top: 100px;
+}
+
+.list a{
+    width: 20px;
+
+}
